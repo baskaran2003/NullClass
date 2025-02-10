@@ -1,8 +1,0 @@
-tensorflow==2.13.0
-tensorflow-intel==2.13.0
-numpy==1.23.5
-opencv-python==4.7.0.72
-matplotlib==3.7.1
-scikit-learn==1.2.2
-pandas==1.5.3
-tkinterweb==3.11.1
